@@ -19,4 +19,5 @@ const cetak_gambar = (n) => {
     }
 };
 
+
 cetak_gambar(5);
